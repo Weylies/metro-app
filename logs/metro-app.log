@@ -677,3 +677,87 @@
 2025-12-08 19:48:47.004 [JavaFX Application Thread] INFO  com.metro.Main - JavaFX приложение успешно запущено
 2025-12-08 19:48:55.946 [JavaFX Application Thread] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Гражданский проспект to Электросила
 2025-12-08 19:48:55.949 [JavaFX Application Thread] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 32 minutes through 16 stations
+2025-12-15 18:46:59.327 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 2
+2025-12-15 18:46:59.331 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 5 minutes through 2 stations
+2025-12-15 18:46:59.336 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 18:46:59.336 [Test worker] WARN  com.metro.algorithm.DijkstraAlgorithm - Path from Станция 1 to Станция 3 not found
+2025-12-15 18:46:59.340 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Тестовая to Тестовая
+2025-12-15 18:46:59.340 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 0 minutes through 1 stations
+2025-12-15 18:46:59.343 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 18:46:59.343 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 7 minutes through 3 stations
+2025-12-15 18:46:59.345 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 18:46:59.347 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 18:46:59.350 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 18:46:59.350 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 18:58:40.193 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 2
+2025-12-15 18:58:40.203 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 5 minutes through 2 stations
+2025-12-15 18:58:40.208 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 18:58:40.208 [Test worker] WARN  com.metro.algorithm.DijkstraAlgorithm - Path from Станция 1 to Станция 3 not found
+2025-12-15 18:58:40.210 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Тестовая to Тестовая
+2025-12-15 18:58:40.210 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 0 minutes through 1 stations
+2025-12-15 18:58:40.210 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 18:58:40.213 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 7 minutes through 3 stations
+2025-12-15 18:58:40.215 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 18:58:40.222 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 18:58:40.222 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 18:58:40.222 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:00:04.433 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 2
+2025-12-15 19:00:04.441 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 5 minutes through 2 stations
+2025-12-15 19:00:04.446 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:00:04.447 [Test worker] WARN  com.metro.algorithm.DijkstraAlgorithm - Path from Станция 1 to Станция 3 not found
+2025-12-15 19:00:04.452 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Тестовая to Тестовая
+2025-12-15 19:00:04.457 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 0 minutes through 1 stations
+2025-12-15 19:00:04.457 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:00:04.457 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 7 minutes through 3 stations
+2025-12-15 19:00:04.457 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:00:04.457 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:00:04.457 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:00:04.457 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:04:25.279 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 2
+2025-12-15 19:04:25.279 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 5 minutes through 2 stations
+2025-12-15 19:04:25.299 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:04:25.299 [Test worker] WARN  com.metro.algorithm.DijkstraAlgorithm - Path from Станция 1 to Станция 3 not found
+2025-12-15 19:04:25.301 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Тестовая to Тестовая
+2025-12-15 19:04:25.303 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 0 minutes through 1 stations
+2025-12-15 19:04:25.303 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:04:25.303 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 7 minutes through 3 stations
+2025-12-15 19:04:25.307 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:04:25.307 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:04:25.311 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:04:25.313 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:05:34.532 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 2
+2025-12-15 19:05:34.537 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 5 minutes through 2 stations
+2025-12-15 19:05:34.541 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:05:34.541 [Test worker] WARN  com.metro.algorithm.DijkstraAlgorithm - Path from Станция 1 to Станция 3 not found
+2025-12-15 19:05:34.545 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Тестовая to Тестовая
+2025-12-15 19:05:34.545 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 0 minutes through 1 stations
+2025-12-15 19:05:34.547 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:05:34.547 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 7 minutes through 3 stations
+2025-12-15 19:05:34.552 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:05:34.554 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:05:34.554 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:05:34.558 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:35:50.029 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 2
+2025-12-15 19:35:50.038 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 5 minutes through 2 stations
+2025-12-15 19:35:50.045 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:35:50.045 [Test worker] WARN  com.metro.algorithm.DijkstraAlgorithm - Path from Станция 1 to Станция 3 not found
+2025-12-15 19:35:50.046 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Тестовая to Тестовая
+2025-12-15 19:35:50.048 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 0 minutes through 1 stations
+2025-12-15 19:35:50.049 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 19:35:50.049 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 7 minutes through 3 stations
+2025-12-15 19:35:50.055 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:35:50.059 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 19:35:50.061 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 19:35:50.062 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 20:08:56.484 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 2
+2025-12-15 20:08:56.495 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 5 minutes through 2 stations
+2025-12-15 20:08:56.505 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 20:08:56.505 [Test worker] WARN  com.metro.algorithm.DijkstraAlgorithm - Path from Станция 1 to Станция 3 not found
+2025-12-15 20:08:56.507 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Тестовая to Тестовая
+2025-12-15 20:08:56.507 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 0 minutes through 1 stations
+2025-12-15 20:08:56.515 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Finding path from Станция 1 to Станция 3
+2025-12-15 20:08:56.515 [Test worker] INFO  com.metro.algorithm.DijkstraAlgorithm - Path found: 7 minutes through 3 stations
+2025-12-15 20:08:56.521 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 20:08:56.531 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
+2025-12-15 20:08:56.531 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Начало загрузки данных метрополитена
+2025-12-15 20:08:56.531 [Test worker] INFO  com.metro.fileio.MetroDataLoader - Данные метрополитена успешно загружены. Всего станций: 74
