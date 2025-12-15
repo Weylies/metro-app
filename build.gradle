@@ -53,7 +53,7 @@ test {
 javadoc {
     source = sourceSets.main.allJava
     classpath = configurations.compileClasspath
-    destinationDir = file("${buildDir}/docs/javadoc")
+    destinationDir = file("javadoc")
     options {
         encoding = 'UTF-8'
         charSet = 'UTF-8'
