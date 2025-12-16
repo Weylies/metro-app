@@ -25,6 +25,7 @@ dependencies {
 application {
     mainClass = 'com.metro.Main'
 }
+
 jar {
     manifest {
         attributes(
